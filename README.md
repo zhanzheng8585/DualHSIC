@@ -1,4 +1,4 @@
-# Official Implementation of DualHSIC
+<!-- # Official Implementation of DualHSIC -->
 # Official Implementation of DualHSIC @ ICML 23
 DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning @ ICML 23
 
