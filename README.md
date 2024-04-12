@@ -1,4 +1,6 @@
-# This codebase contains the implementation of **[DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning](https://proceedings.mlr.press/v202/wang23ar.html) (ICML 2023)**.
+# Official Implementation of DualHSIC @ ICML 2023
+
+This codebase contains the implementation of **[DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning](https://proceedings.mlr.press/v202/wang23ar.html) (ICML 2023)**.
 
 Based on [https://github.com/aimagelab/mammoth](Mammoth)
 
