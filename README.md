@@ -1,4 +1,4 @@
-Codebase for ICML 2023 submission: DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning
+**Codebase for ICML 2023 submission: DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning**
 
 Based on [https://github.com/aimagelab/mammoth](Mammoth)
 
