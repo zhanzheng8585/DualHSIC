@@ -1,16 +1,11 @@
-<!-- # Official Implementation of DualHSIC -->
-# Official Implementation of DualHSIC @ ICML 23
-DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning @ ICML 23
+Codebase for ICML 2023 submission: DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning
 
-Code will be released soon.
+Based on [https://github.com/aimagelab/mammoth](Mammoth)
 
-Please cite our paper:
-## Cite
+The command for reproducing the results on Split CIFAR-100 with DualHSIC + DER++:
 ```
-@article{wang2023dualhsic,
-  title={DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning},
-  author={Wang, Zifeng and Zhan, Zheng and Gong, Yifan and Shao, Yucai and Ioannidis, Stratis and Wang, Yanzhi and Dy, Jennifer},
-  journal={arXiv preprint arXiv:2305.00380},
-  year={2023}
-}
+bash scripts/DualHSIC_derpp.sh
 ```
+The arguments are self-explanatory and correspond to hyperparameter settings presented in our paper.
+
+A clean version with more scripts will be released upon acceptance.
