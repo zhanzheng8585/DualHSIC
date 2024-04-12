@@ -1,5 +1,3 @@
-
-from datasets.seq_cifar10 import SequentialCIFAR10
 from datasets.seq_cifar100 import SequentialCIFAR100
 from datasets.utils.continual_dataset import ContinualDataset
 from argparse import Namespace
